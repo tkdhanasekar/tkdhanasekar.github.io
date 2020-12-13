@@ -1,14 +1,10 @@
 # tkdhanasekar.github.io
 
 <html>
-    <head>
-      <title> This is DHANASEKAR Linux </title>
-    </head>
-    <body>
-      
-        <h1> This is Linux</h1>
+    
+<h1> This is Linux </h1>
+<h1> This is AWS </h1>     
+<h2> This is DevOps </h2>   
      
-     </body>
-     
- </html>
+</html>
  
